@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Font/Font1.spritefont</File>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Images/background.jpg</File>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Images/Blood_Droplet.png</File>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Images/Breadcrumb_blur.png</File>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Images/Bush_Wall.png</File>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Images/fighter_single.png</File>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Images/samurai_idle.png</File>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Images/samurai_single.png</File>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Images/Tile_1.png</File>
+    <File>C:/CS classes/CS5410/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Assignment 2 - Maze Game/Content/Images/Tile_2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
